@@ -23,6 +23,5 @@ Hi there! I'm Kataru Ushasree , a passionate and curious developer exploring the
                            Figma, MySQL, Adobe XD ...
                 Interests: 
                            Graphic Design , AI/ML, UI/UX Design, 
-
-                           
+💻My Portfolio website : https://lifejourneymapping.my.canva.site/ml-engineer-ui7ux-designer                          
 
